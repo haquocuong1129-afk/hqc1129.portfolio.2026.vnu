@@ -492,6 +492,7 @@
 
   @media (max-width: 640px) {
     .info-grid, .skills-grid, .challenges-grid { grid-template-columns: 1fr; }
+    .hero-meta { grid-template-columns: 1fr; }
     .hero h1 { font-size: 2rem; }
     .project-header { flex-wrap: wrap; }
   }
@@ -639,9 +640,9 @@
 
         <h4>Cấu trúc thư mục đã thiết lập</h4>
         <ul>
-          <li>📁 <strong>HOC_TAP_2024/</strong> — Thư mục gốc theo năm học</li>
-          <li>📁 <strong>HOC_TAP_2024/HK2/CBDK101/</strong> — Phân cấp: Học kỳ → Môn học</li>
-          <li>📁 <strong>HOC_TAP_2024/HK2/CBDK101/Bai_tap/</strong> — Bài tập, tài liệu, đề cương</li>
+          <li>📁 <strong>HOC_TAP_2026/</strong> — Thư mục gốc theo năm học</li>
+          <li>📁 <strong>HOC_TAP_2026/HK2/CBDK101/</strong> — Phân cấp: Học kỳ → Môn học</li>
+          <li>📁 <strong>HOC_TAP_2026/HK2/CBDK101/Bai_tap/</strong> — Bài tập, tài liệu, đề cương</li>
           <li>📁 <strong>PERSONAL/Projects/Portfolio/</strong> — Dự án cá nhân tách biệt</li>
           <li>📁 <strong>ARCHIVE/2023/</strong> — Lưu trữ tài liệu cũ theo năm</li>
         </ul>
@@ -1040,7 +1041,7 @@
       </div>
       <div class="challenge-card solution">
         <div class="c-label">Giải pháp</div>
-        <p>Dùng Trello để công khai tiến độ mọi người, cùng thống nhất deadline cụ thể và kiểm tra hàng tuần.</p>
+        <p>Dùng ClickUp để công khai tiến độ mọi người, cùng thống nhất deadline cụ thể và kiểm tra hàng tuần.</p>
       </div>
       <div class="challenge-card challenge">
         <div class="c-label">Thách thức 4</div>
